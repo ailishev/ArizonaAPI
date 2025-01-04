@@ -7,7 +7,7 @@ This is a Python client for the Arizona API, which provides information about va
 To use this client, you'll need to have Python 3 installed on your system. You can install the required dependencies using pip:
 
 ```
-pip install arizona-rp-api
+pip install arizona-api
 pip install requests
 ```
 
