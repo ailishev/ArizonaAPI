@@ -8,7 +8,6 @@ To use this client, you'll need to have Python 3 installed on your system. You c
 
 ```
 pip install arizona-api
-pip install requests
 ```
 
 ## Usage
