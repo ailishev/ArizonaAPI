@@ -1,11 +1,11 @@
 import requests
 
-api_arizona = "https://api.arizona-five.com/launcher/servers"
+API = "https://api.arizona-five.com/launcher/servers"
 
 class ArizonaAPI:
     def __init__(self):
         try:
-            self.api = api_arizona
+            self.api = API
         except Exception as e:
             print(f"An error occurred: {e}")
     
